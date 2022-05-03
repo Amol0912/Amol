@@ -9,7 +9,7 @@ public class Demologin {
 
 	@Test
 
-	public void test01() {
+	public void test01(){
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 
 		WebDriver driver = new ChromeDriver();
